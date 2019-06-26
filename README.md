@@ -1,5 +1,5 @@
 # S05_TestingGrounds by the UnrealCourse
 ## Tutorial by Ben Tristam
 
-For buying or trying the course, [click](https://www.udemy.com/unrealcourse/) 
+[lecture link](https://www.udemy.com/unrealcourse/) for buying or trying the course
 Developed with Unreal Engine 4
